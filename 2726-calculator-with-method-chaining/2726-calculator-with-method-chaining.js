@@ -61,5 +61,4 @@ class Calculator {
     getResult() {
         return this.result;
     }
-
 }
