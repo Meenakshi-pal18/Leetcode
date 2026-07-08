@@ -43,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
