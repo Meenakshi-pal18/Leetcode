@@ -11,6 +11,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -93,4 +94,16 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
