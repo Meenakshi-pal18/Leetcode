@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
