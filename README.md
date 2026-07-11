@@ -54,11 +54,13 @@
 | [0035-search-insert-position](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -121,4 +123,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
