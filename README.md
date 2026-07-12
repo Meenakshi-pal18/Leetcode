@@ -81,6 +81,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0007-reverse-integer) |
+| [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
@@ -142,4 +146,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0844-backspace-string-compare) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
