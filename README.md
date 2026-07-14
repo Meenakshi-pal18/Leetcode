@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@
 | [0016-3sum-closest](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -115,6 +117,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
