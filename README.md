@@ -97,6 +97,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
