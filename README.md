@@ -64,6 +64,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -108,6 +110,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
