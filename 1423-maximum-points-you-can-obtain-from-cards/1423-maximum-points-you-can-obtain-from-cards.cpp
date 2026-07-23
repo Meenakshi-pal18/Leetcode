@@ -5,24 +5,16 @@ public:
 
         int sum = 0;
 
-        // Take first k cards
-        for (int i = 0; i < k; i++) {
+        // Sum of first k cards
+        for (int i = 0; i < k; i++)
             sum += cardPoints[i];
-        }
 
         int ans = sum;
 
-        int left = k - 1;
-        int right = n - 1;
-
-        while (left >= 0) {
-            sum -= cardPoints[left];   // Remove from left
-            sum += cardPoints[right];  // Add from right
-
+        // Replace left cards with right cards
+        for (int i = 1; i <= k; i++) {
+            sum = sum - cardPoints[k - i] + cardPoints[n - i];
             ans = max(ans, sum);
-
-            left--;
-            right--;
         }
 
         return ans;
