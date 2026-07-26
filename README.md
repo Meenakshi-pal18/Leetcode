@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -85,6 +86,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
