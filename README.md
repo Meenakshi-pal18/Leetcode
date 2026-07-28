@@ -82,6 +82,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
 | ------- |
