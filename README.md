@@ -176,6 +176,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,4 +226,12 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
