@@ -75,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0735-asteroid-collision) |
@@ -116,6 +117,7 @@
 | [0085-maximal-rectangle](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@
 | [0007-reverse-integer](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
@@ -160,6 +163,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -234,4 +238,16 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
