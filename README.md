@@ -147,6 +147,7 @@
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -253,4 +254,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
