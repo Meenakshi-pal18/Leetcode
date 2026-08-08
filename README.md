@@ -14,6 +14,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@
 | [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
