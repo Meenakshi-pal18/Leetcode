@@ -126,6 +126,7 @@
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -258,16 +260,19 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -280,4 +285,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
