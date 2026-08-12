@@ -90,6 +90,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -243,6 +245,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
