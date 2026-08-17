@@ -90,6 +90,7 @@
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1563-stone-game-v](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -136,6 +137,7 @@
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -282,6 +285,7 @@
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
