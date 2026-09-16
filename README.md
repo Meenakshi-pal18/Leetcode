@@ -211,6 +211,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -273,10 +274,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Meenakshi-pal18/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -334,4 +337,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Meenakshi-pal18/Leetcode/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Meenakshi-pal18/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
