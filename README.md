@@ -135,6 +135,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0486-predict-the-winner) |
@@ -351,5 +353,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Meenakshi-pal18/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
